@@ -1,0 +1,13 @@
+header{
+    height: 100px;
+    /* background: bg_color bg_image bg_repeat bg_attachment bg_position; */
+    background: #4ea0ff url("../html-css-booleaner/img/pattern.png") no-repeat 50% 30%;
+    background-repeat: repeat-x;
+    background-size:auto;
+    
+}
+
+.logo{
+    height: 80px;
+    margin-left: 5px;
+}
