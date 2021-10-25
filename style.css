@@ -60,3 +60,28 @@ p{
     padding: 20px;
 }
 
+
+
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    caption-side: top;
+}
+
+.colorethead{
+    background-color: #20A9E5;
+    border-color: #20A9E5;
+    color: white;
+}
+
+.colortr{
+    background-color: #B1E5F2;
+}
+
+.ultimacolonna{
+    width: 50%;    
+}
+
