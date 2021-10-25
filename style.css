@@ -1,5 +1,5 @@
 header{
-    height: 100px;
+    height: 50px;
     /* background: bg_color bg_image bg_repeat bg_attachment bg_position; */
     background: #4ea0ff url("../html-css-booleaner/img/pattern.png") no-repeat 50% 30%;
     background-repeat: repeat-x;
@@ -7,7 +7,32 @@ header{
     
 }
 
+span{
+    color: grey;
+    border-top: 0px;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
 .logo{
-    height: 80px;
+    height: 40px;
     margin-left: 5px;
+}
+
+.titolo{
+    font-size: 40px;
+    border-width: 0px;
+    margin-bottom: 0px;
+}
+
+#coloresottotitolo{
+    color: #20A9E5;
+}
+
+.data{
+    font-size: 12px;
+}
+
+.Tim{
+    margin-top: 20px;
 }
