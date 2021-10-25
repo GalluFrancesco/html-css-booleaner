@@ -1,3 +1,6 @@
+
+
+
 header{
     height: 50px;
     /* background: bg_color bg_image bg_repeat bg_attachment bg_position; */
@@ -34,5 +37,26 @@ span{
 }
 
 .Tim{
-    margin-top: 20px;
+    margin-top: 30px;
 }
+
+.ref_img{
+    color: black;
+    font-size: 10px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.evidenziare{
+     background-color: yellow;
+     color: black;
+}
+
+.nomargin{
+    font-size: 20px;
+    margin:0;
+    padding: 20px;
+}
+
