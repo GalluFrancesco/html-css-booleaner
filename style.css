@@ -2,11 +2,10 @@
 
 
 header{
-    height: 50px;
     /* background: bg_color bg_image bg_repeat bg_attachment bg_position; */
-    background: #4ea0ff url("../html-css-booleaner/img/pattern.png") no-repeat 50% 30%;
-    background-repeat: repeat-x;
-    background-size:auto;
+    background: #4ea0ff url('img/pattern.png');
+    background-size: 30%;
+    height: 100px;
     
 }
 
@@ -18,8 +17,8 @@ span{
 }
 
 .logo{
-    height: 40px;
-    margin-left: 5px;
+    margin-top: 40px;
+    width: 200px;
 }
 
 .titolo{
